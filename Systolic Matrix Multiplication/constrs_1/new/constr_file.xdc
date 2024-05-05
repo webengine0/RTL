@@ -1,0 +1,1 @@
+create_clock -add -name sys_clk_pin -period 4.00 [get_ports {clk}];
